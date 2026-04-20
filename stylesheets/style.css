@@ -9,9 +9,9 @@ table {
 }
 
 th {
-  background-color: #4caf50;
+  background-color: deeppink;
   color: white;
   padding: 12px;
   text-align: left;
-  border: 1px solid #ddd;
+  font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;;
 }
